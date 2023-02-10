@@ -33,6 +33,8 @@
 
 - Open R3DHULK's [Terminal](https://r3dhulk.github.io/Terminal/)
 
+- [Hire Me](https://www.fiverr.com/r3dh_ulk?up_rollout=true)
+
 <h3 align="left">
 
 ```
